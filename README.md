@@ -12,11 +12,11 @@ The documents should have corresponding content, structured such that verses or 
 
 ### Steps
 1. Install the required Python package `python-docx` by running `pip install python-docx`.
-2. Place the script `combine-docs.py` in the same directory as your documents.
+2. Place the script `gita-doc-combine.py` in the same directory as your documents.
 3. Modify the `devanagari_path`, `roman_path`, and `output_path` variables in the script to point to your respective input and output documents.
 4. Run the script using the command:
    ```
-   python combine-docs.py
+   python gita-doc-combine.py
    ```
 
 ## Requirements
